@@ -1,1 +1,4 @@
-# Deep-Learning
+Multiclass Classification and Object Identification of Fashion MNIST using Convolutional Neural Networks
+Author@Md Shahidullah Kawsar
+
+Abstruct: As a yardstick of machine learning algorithms, 'Fashion MNIST' is one of the most popular datasets among the Artificial Intelligence (AI) and Data Science community. In this project, I performed multiclass classification on Fashion MNIST dataset and object identification of different clothes. The classification problem was very challenging due to the diversity of similar patterns on multiple classes which affected the performance of the classifier. For example, a shirt, a pullover and a dress may have long-sleeve of similar patterns or a sneaker and an ankle boot may have leis of similar patterns. 28x28 grayscale images of 70,000 fashion products from 10 categories, and 7,000 images per category.
